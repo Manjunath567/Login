@@ -1,0 +1,12 @@
+.countdown_wrapper{
+  display: inline;
+}
+
+.countdown_bottom{
+  display: flex;
+  width: 20em;
+}
+
+.countdown_item{
+  width:10em;
+}
